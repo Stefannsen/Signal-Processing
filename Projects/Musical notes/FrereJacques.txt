@@ -1,0 +1,8 @@
+Do1 Re Mi Do1 Pause_Small
+Do1 Re Mi Do1 Pause_Big
+Mi Fa Sol Pause_Small
+Mi Fa Sol Pause_Big
+Sol La Sol Fa Mi Do1 Pause_Small
+Sol La Sol Fa Mi Do1 Pause_Big
+Do1 Sol Do2 Pause_Small
+Do1 Sol Do2
